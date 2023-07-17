@@ -4,8 +4,8 @@ public class RitzAbstract extends Vehicle{
 
 	@Override
 	public void drive() {
-		// TODO Auto-generated method stub
-		
+		System.out.println(" driving ");
+		 
 	}
 
 	@Override
